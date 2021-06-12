@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PyDnet
 
 ### Update: 
@@ -55,3 +56,7 @@ python experiments.py --datapath PATH_TO_KITTI --filenames PATH_TO_FILELIST --ch
 ```
 
 This script generates `disparity.npy`, that can be evaluated using the evaluation tools by Clément Godard 
+=======
+# monocular_avoidance_drone
+>>>>>>> f4e75dda712ab70ffdb5a94529fa76703b686e48
+# drone_avoidance-
